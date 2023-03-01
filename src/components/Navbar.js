@@ -13,8 +13,8 @@ const Navbar = () => {
             <nav className="main-nav">
                 <div className="logo">
                     <h2>
-                        <span>S</span>ilveroak
-                        <span>U</span>niversity
+                        <span>G</span>ender &nbsp;
+                        <span>E</span>quality
                     </h2>
                 </div>
                 <ul className= {showMediaIcons ? "menu-link mobile-menu-link": "menu-link"}>
