@@ -1,6 +1,7 @@
 import React from "react";
-
+import Axios from "axios";
 function Contact() {
+    Axios.post("https://encouraging-hare-attire.cyclic.app/receivecontact")
   return (
     <>
       <div class="flex2">
