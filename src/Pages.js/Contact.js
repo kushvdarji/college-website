@@ -29,10 +29,10 @@ function Contact() {
     }).then((response)=>{
       console.log(response);
     });
-    // setName("");
-    // setDisc("");
-    // setEmail("");
-    // setPhone("");
+    setName("");
+    setDisc("");
+    setEmail("");
+    setPhone("");
 
   }
   return (
